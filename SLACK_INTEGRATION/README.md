@@ -3,4 +3,12 @@
 # Export the webhook url into a variable
 # json format file data is sent to the slack channel
 
+To use it git clone and then based on the url generated
+
+export webhook = 'xxxxxx' 
+cd SLACK_INTEGRATION
+python3 slack_message.py
+
+
+
 
